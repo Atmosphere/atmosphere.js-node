@@ -1,6 +1,6 @@
 {
   "name": "atmosphere.js",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "homepage": "https://github.com/Atmosphere/atmosphere-javascript",
   "description": "Atmosphere client for Node.js",
   "main": "index.js",
