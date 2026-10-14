@@ -14,5 +14,7 @@ This repository provides [Atmosphere](https://github.com/Atmosphere/atmosphere) 
 ### Install
 
 ```bash
-npm install atmosphere.js
+npm install atmosphere.js@4
 ```
+
+Plain `npm install atmosphere.js` installs atmosphere.js 5.x, the TypeScript client.
